@@ -49,5 +49,5 @@ variable "tfe_workspace_name" {
 
 variable "playbook_repository" {
   type        = string
-  description = "(Required) URI of Ansible Playbook"
+  description = "(Required) URL of Ansible Playbook"
 }
